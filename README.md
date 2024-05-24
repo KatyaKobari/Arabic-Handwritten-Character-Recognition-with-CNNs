@@ -1,6 +1,5 @@
 # Arabic-Handwritten-Character-Recognition-with-CNNs
 
-## Arabic Handwritten Character Recognition with CNNs: A Comprehensive Exploration
 
 ### Project Overview
 
